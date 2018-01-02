@@ -23,8 +23,8 @@ import sys
 import time
 import httplib, urllib
 import json
-deviceId = "D7SGRnN3"
-deviceKey = "qyp1T0A2WCK4wxih" 
+deviceId = "D2FTGJIk"
+deviceKey = "V0NalioIfisUZAVo" 
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(24,GPIO.IN,pull_up_down=GPIO.PUD_UP)
